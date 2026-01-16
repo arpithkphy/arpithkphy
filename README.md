@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arpith Kumar 
-- 👀 I’m interested in Theoretical Physics
-- 🌱 I’m currently working as a SRF at IISER Mohali, India 
-- 📫 Please reach me on arpithk.phy@gmail.com
+- 👀 I’m interested in Lattice QCD and Theoretical Physics
+- 🌱 I’m currently working as a Postdoctoral Fellow at Central China Normal University Wuhan  
+- 📫 Please reach me at arpithk.phy@gmail.com
 
 <!---
 arpithkphy/arpithkphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
