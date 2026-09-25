@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpith Kumar 
-- 👀 I’m mainly interested in Lattice QCD, HRG, ChPT, and numerical methods
+- 👀 I’m mainly interested in Lattice QCD, HRG, ChPT, complex Langevin and numerical techniques
 - 🌱 I’m currently working as a Postdoctoral Researcher at Bielefeld University, Germany  
 - 📫 Please reach me at arpithk.phy@gmail.com and arpith.kumar@uni-bielefeld.de
 
